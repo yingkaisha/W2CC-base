@@ -31,17 +31,26 @@ varnames = [
     '10m_v_component_of_wind',
     'total_precipitation',
     'surface_solar_radiation_downwards',
-    'surface_thermal_radiation_downwards'
+    'surface_thermal_radiation_downwards',
+    'geopotential',
+    'mean_sea_level_pressure'
 ]
 
 ERA5_1h = xr.open_zarr(
     "gs://gcp-public-data-arco-era5/ar/full_37-1h-0p25deg-chunk-1.zarr-v3",
     chunks=None,
-    storage_options=dict(token='anon'),)[varnames]
+    storage_options=dict(token='anon'),)
 
+ERA5_1h = ERA5_1h[varnames]
+ERA5_1h = ERA5_1h.sel(level=500) # 500 hPa GP
+
+# ------------------------------------------------------------------------ #
+# subset time
 ds = ERA5_1h.sel(time=slice(f'{year-1}-12-01T00', f'{year}-12-31T23'))
 ds = ds.rename({'longitude': 'lon', 'latitude': 'lat'})
 
+# ------------------------------------------------------------------------ #
+# accumulate hourly precip to daily 
 ds_tp = ds[['total_precipitation',]]
 ds_ave = ds[list(set(varnames)-set(['total_precipitation',]))]
 
@@ -60,6 +69,8 @@ ds_ave = ds_ave.resample(time='24h').mean()
 ds_ave = ds_ave.sel(time=slice(time_start_save, time_end))
 ds_final = xr.merge([ds_tp, ds_ave])
 
+# ------------------------------------------------------------------------ #
+# interpolate to CESM grids
 fn_CESM = '/glade/derecho/scratch/ksha/EPRI_data/CESM2_SMYLE/SMYLE_1958-11-01_daily_ensemble.zarr'
 ds_CESM = xr.open_zarr(fn_CESM)
 # ds_CESM['lon'] = (ds_CESM['lon']  + 180) % 360 - 180
@@ -68,7 +79,9 @@ ds_interp = regridder(ds_final)
 
 ds_interp = ds_interp.chunk({"time": 32, "lat": 192, "lon": 288})
 
-# ==================================================================== #
+# ------------------------------------------------------------------------ #
+# save
+
 # encoding
 dict_encoding = {}
 varnames = list(ds_interp.keys())
@@ -84,8 +97,7 @@ for i_var, var in enumerate(varnames):
     else:
         dict_encoding[var] = {'compressor': compress, **chunk_size_3d}
 
-# ==================================================================== #
-# save
+# to zarr
 save_name = f'/glade/derecho/scratch/ksha/EPRI_data/ERA5_grid/ERA5_{year}.zarr'
 ds_interp.to_zarr(save_name, mode='w', consolidated=True, compute=True, encoding=dict_encoding)
 

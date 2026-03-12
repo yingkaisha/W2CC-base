@@ -32,6 +32,7 @@ varname_dict = {
     'FLDS': 'Downwelling longwave flux at surface [W/m2]',
     'FSDS': 'Downwelling solar flux at surface [W/m2]',
     'U10': '10-m wind speed [m/s]',
+    'Z500': 'Geopotential Z at  500 mbar pressure surface'
 }
 
 # ==================================================================== #
