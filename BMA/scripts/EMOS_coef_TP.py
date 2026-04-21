@@ -18,15 +18,17 @@ args = vars(parser.parse_args())
 # -------------------- config -------------------- #
 
 lat_i = int(args['lat_i'])
-VAR_CESM = 'TREFHT'
-VAR_ERA5 = '2m_temperature'
+VAR = VAR_CESM = 'PRECT'
+VAR_ERA5 = 'total_precipitation'
+unit_CESM = 60*60*24 * 1000 # m/s to mm/day
+unit_ERA5 = 1000  # m/day to mm/day
 
 WINDOW = 0        # sliding window half-width (days) around each lead_time
                   #   0 → fit per lead_time only
                   #  15 → ±15 days pooled (~52 × 31 ≈ 1600 samples)
 MIN_SAMPLES = 20  # minimum valid (init_time × window) samples to fit
 EPS = 1e-6        # floor for predicted variance
-SAVE_PATH = f'/glade/derecho/scratch/ksha/EPRI_data/EMOS/{VAR_CESM}/emos_coef_lat_ind_{lat_i}.zarr'
+SAVE_PATH = f'/glade/derecho/scratch/ksha/EPRI_data/EMOS/{VAR_CESM}_lognorm/emos_coef_lat_ind_{lat_i}.zarr'
 
 # ================================================ #
 # --------------------- data --------------------- #
@@ -48,6 +50,12 @@ for year in range(1958, 2026):
     list_target.append(ds_ERA5.isel(lat=lat_i))
 
 ds_target = xr.concat(list_target, dim='time')
+
+ds_input[VAR_CESM] = ds_input[VAR_CESM] * unit_CESM
+ds_target[VAR_CESM] = ds_target[VAR_CESM] * unit_ERA5
+
+ds_input[VAR_CESM] = ds_input[VAR_CESM]**0.25
+ds_target[VAR_CESM] = ds_target[VAR_CESM]**0.25
 
 # ================================================ #
 # Noleap calendar → real-date index mapping
@@ -96,11 +104,11 @@ print(f"  Matched {n_valid_total} of {n_init * n_lead} (init, lead) pairs to ERA
 
 # ================================================ #
 # Precompute ensemble mean and variance
-ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
-ens_var_da  = ds_input[VAR].var(dim='member', ddof=1)     # (init_time, lead_time, lat, lon)
+ens_mean_da = ds_input[VAR_CESM].mean(dim='member')            # (init_time, lead_time, lat, lon)
+ens_var_da  = ds_input[VAR_CESM].var(dim='member', ddof=1)     # (init_time, lead_time, lat, lon)
 
 print("Loading ERA5 target into memory …")
-target_data = ds_target[VAR].values.astype(np.float32)    # (time, lat, lon)
+target_data = ds_target[VAR_CESM].values.astype(np.float32)    # (time, lat, lon)
 print(f"  target_data shape: {target_data.shape}\n")
 
 # ================================================ #
