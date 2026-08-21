@@ -1,0 +1,1870 @@
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 19
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_19.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 21
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_21.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 23
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_23.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 20
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_20.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 37
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_37.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 35
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_35.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 48
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_48.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 29
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_29.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 59
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_59.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 64
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_64.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 22
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_22.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 52
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_52.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 56
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_56.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 38
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_38.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 47
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_47.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 31
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_31.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 55
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_55.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 54
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_54.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 62
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_62.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 60
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_60.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 49
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_49.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 50
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_50.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 63
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_63.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 34
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_34.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 57
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_57.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 40
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_40.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 43
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_43.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 24
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_24.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 30
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_30.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 46
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_46.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 26
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_26.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 25
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_25.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 41
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_41.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 28
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_28.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 58
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_58.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 53
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_53.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 42
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_42.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 51
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_51.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 27
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_27.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 39
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_39.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 44
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_44.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 61
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_61.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 36
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_36.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 33
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_33.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 32
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_32.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 45
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_45.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 67
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_67.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 66
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_66.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 14
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_14.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 11
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_11.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 76
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_76.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 75
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_75.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 15
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_15.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 17
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_17.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 81
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_81.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 90
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_90.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 125
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_125.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 103
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_103.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 83
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_83.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 121
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_121.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 84
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_84.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 99
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_99.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 112
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_112.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 79
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_79.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 101
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_101.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 97
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_97.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 93
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_93.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 100
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_100.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 95
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_95.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 98
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_98.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 113
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_113.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 120
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_120.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 89
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_89.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 122
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_122.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 82
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_82.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 107
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_107.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 114
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_114.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 117
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_117.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 92
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_92.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 124
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_124.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 110
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_110.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 105
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_105.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 116
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_116.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 115
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_115.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 111
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_111.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 85
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_85.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 94
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_94.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 108
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_108.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 119
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_119.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 118
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_118.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 88
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_88.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 109
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_109.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 106
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_106.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 104
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_104.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 86
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_86.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 123
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_123.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 102
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_102.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 91
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_91.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 87
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_87.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 96
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_96.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 4
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_4.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 127
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_127.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 128
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_128.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 133
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_133.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 132
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_132.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 129
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_129.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 130
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_130.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 134
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_134.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 135
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_135.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 137
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_137.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 138
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_138.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 77
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_77.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 187
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_187.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 188
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_188.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 185
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_185.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 186
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_186.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 189
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_189.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 131
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_131.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 139
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_139.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 190
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_190.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 143
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_143.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 149
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_149.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 183
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_183.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 180
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_180.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 159
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_159.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 157
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_157.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 173
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_173.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 181
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_181.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 151
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_151.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 164
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_164.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 161
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_161.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 170
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_170.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 163
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_163.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 178
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_178.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 141
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_141.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 177
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_177.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 168
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_168.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 160
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_160.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 182
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_182.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 148
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_148.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 145
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_145.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 140
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_140.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 158
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_158.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 169
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_169.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 179
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_179.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 176
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_176.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 171
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_171.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 167
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_167.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 162
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_162.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 146
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_146.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 142
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_142.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 172
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_172.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 175
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_175.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 144
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_144.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 153
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_153.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 154
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_154.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 147
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_147.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 165
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_165.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 166
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_166.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 150
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_150.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 155
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_155.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 152
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_152.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 156
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_156.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 174
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_174.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 80
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_80.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 5
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_5.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 191
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_191.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 18
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_18.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 7
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_7.zarr …
+Done.
+
+Building noleap → real-calendar date mapping …
+  Matched 189800 of 189800 (init, lead) pairs to ERA5 dates.
+
+Loading ERA5 target into memory …
+  target_data shape: (24837, 288)
+
+Fitting EMOS for latitude row 10
+
+Saving EMOS coefficients to /glade/derecho/scratch/ksha/EPRI_data/EMOS/TREFHTMX/emos_coef_lat_ind_10.zarr …
+Done.
+

@@ -1,0 +1,830 @@
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+             ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+             ^^^^
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+             ^^^^
+NameError: name 'tqdm' is not defined
+             ^^^^
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+             ^^^^
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+             ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+             ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+             ^^^^
+NameError: name 'tqdm' is not defined
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+             ^^^^
+             ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+             ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+             ^^^^
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+             ^^^^
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+             ^^^^
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+Traceback (most recent call last):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+             ^^^^
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+             ^^^^
+             ^^^^
+             ^^^^
+             ^^^^
+             ^^^^
+             ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+             ^^^^
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+Traceback (most recent call last):
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+             ^^^^
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+             ^^^^
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+             ^^^^
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+             ^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+             ^^^^
+NameError: name 'tqdm' is not defined
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+Cgroup memsw limit exceeded: 
+NameError: name 'tqdm' is not defined
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+NameError: name 'tqdm' is not defined
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/quantile_opt.py", line 265, in <module>
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+             ^^^^
+    for d in tqdm(range(N_DOY), desc='CESM qtable'):
+NameError: name 'tqdm' is not defined
+             ^^^^
+NameError: name 'tqdm' is not defined

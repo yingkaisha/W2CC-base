@@ -1,0 +1,1536 @@
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+                 ^^^^
+                 ^^^^
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+NameError: name 'tqdm' is not defined
+                 ^^^^
+                 ^^^^
+                 ^^^^
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+                 ^^^^
+                 ^^^^
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+                 ^^^^
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'tqdm' is not defined
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+Traceback (most recent call last):
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+                 ^^^^
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'tqdm' is not defined
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+Traceback (most recent call last):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+                 ^^^^
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+Traceback (most recent call last):
+                 ^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+                 ^^^^
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+                 ^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+                 ^^^^
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+NameError: name 'tqdm' is not defined
+                 ^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+Traceback (most recent call last):
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+                 ^^^^
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+Traceback (most recent call last):
+NameError: name 'tqdm' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+                 ^^^^
+                 ^^^^
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+NameError: name 'tqdm' is not defined
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+Traceback (most recent call last):
+                 ^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+NameError: name 'tqdm' is not defined
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 372, in <module>
+    ds_emos = fit_emos_csgd(ds_input_exp, ds_target_exp, date_idx, var=VAR_CESM, window=WINDOW)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_CSGD_coef.py", line 246, in fit_emos_csgd
+    for lat_i in tqdm(range(n_lat), desc='lat'):
+                 ^^^^
+NameError: name 'tqdm' is not defined

@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/verification/scripts/STN_00_CESM_MEM.py", line 58, in <module>
+    subset.to_zarr(save_name, mode='w', consolidated=True, compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1784, in to_zarr
+    dump_to_store(dataset, zstore, writer, encoding=encoding)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1467, in dump_to_store
+    store.store(variables, attrs, check_encoding, writer, unlimited_dims=unlimited_dims)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 724, in store
+    zarr.consolidate_metadata(self.zarr_group.store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/convenience.py", line 1295, in consolidate_metadata
+    store[metadata_key] = json_dumps(out)
+    ~~~~~^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1151, in __setitem__
+    self._tofile(value, temp_path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1111, in _tofile
+    with open(fn, mode="wb") as f:
+OSError: [Errno 122] Disk quota exceeded

@@ -1,0 +1,1849 @@
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+    return to_zarr(  # type: ignore[call-overload,misc]
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    return to_zarr(  # type: ignore[call-overload,misc]
+    return to_zarr(  # type: ignore[call-overload,misc]
+Traceback (most recent call last):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1784, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    return to_zarr(  # type: ignore[call-overload,misc]
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+    return to_zarr(  # type: ignore[call-overload,misc]
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+Traceback (most recent call last):
+    return to_zarr(  # type: ignore[call-overload,misc]
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    return to_zarr(  # type: ignore[call-overload,misc]
+Traceback (most recent call last):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    return to_zarr(  # type: ignore[call-overload,misc]
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+Traceback (most recent call last):
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zstore = backends.ZarrStore.open_group(
+    return to_zarr(  # type: ignore[call-overload,misc]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    zstore = backends.ZarrStore.open_group(
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    zstore = backends.ZarrStore.open_group(
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1784, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zstore = backends.ZarrStore.open_group(
+Traceback (most recent call last):
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zstore = backends.ZarrStore.open_group(
+                                                             ^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    zstore = backends.ZarrStore.open_group(
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    return to_zarr(  # type: ignore[call-overload,misc]
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+    return to_zarr(  # type: ignore[call-overload,misc]
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+    zstore = backends.ZarrStore.open_group(
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group = zarr.open_group(store, **open_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zstore = backends.ZarrStore.open_group(
+    dump_to_store(dataset, zstore, writer, encoding=encoding)
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1784, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    zstore = backends.ZarrStore.open_group(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    dump_to_store(dataset, zstore, writer, encoding=encoding)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1467, in dump_to_store
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    return to_zarr(  # type: ignore[call-overload,misc]
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+Traceback (most recent call last):
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zstore = backends.ZarrStore.open_group(
+    return to_zarr(  # type: ignore[call-overload,misc]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zstore = backends.ZarrStore.open_group(
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    return to_zarr(  # type: ignore[call-overload,misc]
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    store.store(variables, attrs, check_encoding, writer, unlimited_dims=unlimited_dims)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+                                                             ^^^^^^^^^^^^^^^^^
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 704, in store
+    zstore = backends.ZarrStore.open_group(
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    dump_to_store(dataset, zstore, writer, encoding=encoding)
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1467, in dump_to_store
+    return to_zarr(  # type: ignore[call-overload,misc]
+    return to_zarr(  # type: ignore[call-overload,misc]
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    return to_zarr(  # type: ignore[call-overload,misc]
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    self.set_attributes(attributes)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 595, in set_attributes
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    zstore = backends.ZarrStore.open_group(
+                                                             ^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zstore = backends.ZarrStore.open_group(
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1467, in dump_to_store
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+Traceback (most recent call last):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1784, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+    _put_attrs(self.zarr_group, attributes)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zstore = backends.ZarrStore.open_group(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+                                                             ^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    zstore = backends.ZarrStore.open_group(
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 395, in _put_attrs
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zstore = backends.ZarrStore.open_group(
+    store.store(variables, attrs, check_encoding, writer, unlimited_dims=unlimited_dims)
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 720, in store
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zstore = backends.ZarrStore.open_group(
+                                                             ^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+                                                             ^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zstore = backends.ZarrStore.open_group(
+                                                             ^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1784, in to_zarr
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+                                                             ^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+                                                             ^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_obj.attrs.put(attrs)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zstore = backends.ZarrStore.open_group(
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 124, in put
+                                                             ^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                                                             ^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+                                                             ^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    store.store(variables, attrs, check_encoding, writer, unlimited_dims=unlimited_dims)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zstore = backends.ZarrStore.open_group(
+    ~~~~~^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+                                                             ^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    dump_to_store(dataset, zstore, writer, encoding=encoding)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                                                             ^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    self.set_variables(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1467, in dump_to_store
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+                                                             ^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    dump_to_store(dataset, zstore, writer, encoding=encoding)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zstore = backends.ZarrStore.open_group(
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zstore = backends.ZarrStore.open_group(
+                                                             ^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                                                             ^^^^^^^^^^^^^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+                                                             ^^^^^^^^^^^^^^^^^
+    store.store(variables, attrs, check_encoding, writer, unlimited_dims=unlimited_dims)
+    self._write_op(self._put_nosync, d)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    return to_zarr(  # type: ignore[call-overload,misc]
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1467, in dump_to_store
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+                                                             ^^^^^^^^^^^^^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 720, in store
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                                                             ^^^^^^^^^^^^^^^^^
+    return to_zarr(  # type: ignore[call-overload,misc]
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    self.set_variables(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 83, in _write_op
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zstore = backends.ZarrStore.open_group(
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 720, in store
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    store.store(variables, attrs, check_encoding, writer, unlimited_dims=unlimited_dims)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return callabl(*args, **kwargs)
+                                                             ^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                                                             ^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 831, in set_variables
+    return f(*args, **kwargs)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1784, in to_zarr
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 704, in store
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    ~~~~~^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_array = _put_attrs(zarr_array, encoded_attrs)
+           ^^^^^^^^^^^^^^^^^^
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 150, in _put_nosync
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    dump_to_store(dataset, zstore, writer, encoding=encoding)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    ~~~~~^^^^^
+    ~~~~~^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    ~~~~~^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    return to_zarr(  # type: ignore[call-overload,misc]
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    self.store[self.key] = json_dumps(d)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                                                             ^^^^^^^^^^^^^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1467, in dump_to_store
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    self.set_variables(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 395, in _put_attrs
+    ~~~~~~~~~~^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+                                                             ^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    store.store(variables, attrs, check_encoding, writer, unlimited_dims=unlimited_dims)
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 824, in set_variables
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1784, in to_zarr
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    zarr_obj.attrs.put(attrs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 704, in store
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 824, in set_variables
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    ~~~~~^^^^^
+    zarr_array = self.zarr_group.create(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.afd70ad7201146d4bcbe011b4ed60770.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    dump_to_store(dataset, zstore, writer, encoding=encoding)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    return callabl(*args, **kwargs)
+    rmdir(store, path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 124, in put
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    ~~~~~^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    self.set_attributes(attributes)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    return callabl(*args, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    return callabl(*args, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    return callabl(*args, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    zstore = backends.ZarrStore.open_group(
+    ~~~~~^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.727a9b8892d14b5bb30937e7fd870fe3.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    ~~~~~^^^^^
+Traceback (most recent call last):
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    rmdir(store, path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    zarr_array = self.zarr_group.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    return callabl(*args, **kwargs)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.a84045ece48941b3b2b1de5cdfd55cdf.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1195, in create
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.27f0297df1f74c40b67528c2286772d5.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1467, in dump_to_store
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1151, in __setitem__
+    ~~~~~^^^^^
+    store.rmdir(path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    ~~~~~^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+    return self._write_op(self._create_nosync, name, **kwargs)
+    ~~~~~^^^^^
+    rmdir(store, path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    store.store(variables, attrs, check_encoding, writer, unlimited_dims=unlimited_dims)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    self._tofile(value, temp_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1111, in _tofile
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    self._write_op(self._put_nosync, d)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    store.rmdir(path)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+                                                             ^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1151, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+    rmdir(store, path)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.09e6f8009a3a47a7b97ec1bc335673a0.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 720, in store
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    with open(fn, mode="wb") as f:
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    shutil.rmtree(dir_path)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 83, in _write_op
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    rmdir(store, path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 952, in _write_op
+    self._tofile(value, temp_path)
+    store.rmdir(path)
+    store.rmdir(path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+    self.set_variables(
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+         ^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+    return f(*args, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    return callabl(*args, **kwargs)
+    return to_zarr(  # type: ignore[call-overload,misc]
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    shutil.rmtree(dir_path)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    ~~~~~^^^^^
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    zstore = backends.ZarrStore.open_group(
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+    return f(*args, **kwargs)
+    store.rmdir(path)
+           ^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+           ^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+    ~~~~~^^^^^
+    rmdir(store, path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+    return callabl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1201, in _create_nosync
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.db67e1e3c76e4857808f4b645eecaff6.partial'
+    return create(store=self._store, path=path, chunk_store=self._chunk_store, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/creation.py", line 209, in create
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 831, in set_variables
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    rmdir(store, path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1111, in _tofile
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    return callabl(*args, **kwargs)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    rmdir(store, path)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1195, in create
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    self.set_attributes(attributes)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    init_array(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 446, in init_array
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    _require_parent_group(path, store=store, chunk_store=chunk_store, overwrite=overwrite)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 316, in _require_parent_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store, path=p, chunk_store=chunk_store)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    return callabl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 595, in set_attributes
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.6f7c2e78b2c14fd89d9a7484c188515c.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return callabl(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    return callabl(*args, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 150, in _put_nosync
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1151, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.777043fe2b8d4137b4db9138084530ee.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.370fbf31b5ef40f98182ec92cf3364c8.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    rmdir(store, path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+    zarr_array = _put_attrs(zarr_array, encoded_attrs)
+    rmdir(store, path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 595, in set_attributes
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+    shutil.rmtree(dir_path)
+    shutil.rmtree(dir_path)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    shutil.rmtree(dir_path)
+    with open(fn, mode="wb") as f:
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    return self._write_op(self._create_nosync, name, **kwargs)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _put_attrs(self.zarr_group, attributes)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.f582a2fc78ec4b0a9fbc66b31494d485.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zattrs.1ecad7e538864343932b4ea9b4e5dd60.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zattrs'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+    ~~~~~^^^^^
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    store.rmdir(path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    self.store[self.key] = json_dumps(d)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+         ^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+    store.rmdir(path)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.fcafe88432c7403282e0519787d8a605.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 395, in _put_attrs
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                             ^^^^^^^^^^^^^^^^^
+    store.rmdir(path)
+    rmdir(store, path)
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+    _put_attrs(self.zarr_group, attributes)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.d43be489bcb14671be4945b2a8f8e55d.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+    rmdir(store, path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    zstore = backends.ZarrStore.open_group(
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    onerror(os.unlink, fullname, sys.exc_info())
+    rmdir(store, path)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    rmdir(store, path)
+    rmdir(store, path)
+    self._tofile(value, temp_path)
+    rmdir(store, path)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.eff32bdc64a041bcb0e1222633b1eaf7.partial'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 395, in _put_attrs
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+    ~~~~~~~~~~^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+                                                             ^^^^^^^^^^^^^^^^^
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+    store.rmdir(path)
+    store.rmdir(path)
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 395, in _put_attrs
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 952, in _write_op
+    zarr_group = zarr.open_group(store, **open_kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1111, in _tofile
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+    ~~~~~^^^^^
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    zarr_obj.attrs.put(attrs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    onerror(os.unlink, fullname, sys.exc_info())
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    _rmtree_safe_fd(fd, path, onerror)
+    return callabl(*args, **kwargs)
+    _rmtree_safe_fd(fd, path, onerror)
+    _rmtree_safe_fd(fd, path, onerror)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1151, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zarr_obj.attrs.put(attrs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 124, in put
+    ~~~~~^^^^^
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    zarr_obj.attrs.put(attrs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+    shutil.rmtree(dir_path)
+    store.rmdir(path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    store.rmdir(path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 672, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+    store.rmdir(path)
+    shutil.rmtree(dir_path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    store.rmdir(path)
+    store.rmdir(path)
+    store.rmdir(path)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    shutil.rmtree(dir_path)
+    with open(fn, mode="wb") as f:
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    return f(*args, **kwargs)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    os.unlink(entry.name, dir_fd=topfd)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 124, in put
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.aacc39e27249425dad7432495c1a91a7.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 124, in put
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+           ^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    ~~~~~^^^^^
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    zarr_group = zarr.open_group(store, **open_kwargs)
+         ^^^^^^^^^^^^^^^^^^^
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.7ca68c3445034a3da71fe25b2214661f.partial'
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    self._tofile(value, temp_path)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    shutil.rmtree(dir_path)
+    os.unlink(entry.name, dir_fd=topfd)
+    shutil.rmtree(dir_path)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    onerror(os.unlink, fullname, sys.exc_info())
+    rmdir(store, path)
+    onerror(os.unlink, fullname, sys.exc_info())
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+    zarr_group = zarr.open_group(store, **open_kwargs)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    self._write_op(self._put_nosync, d)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1201, in _create_nosync
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.290bd7a631904ed6b5895bdd9f140f40.partial'
+                                                             ^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    shutil.rmtree(dir_path)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.d581cbadbfc54750bbd7310225c22d0c.partial'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1111, in _tofile
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 83, in _write_op
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    shutil.rmtree(dir_path)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    shutil.rmtree(dir_path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    shutil.rmtree(dir_path)
+    shutil.rmtree(dir_path)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    shutil.rmtree(dir_path)
+    return callabl(*args, **kwargs)
+    self._write_op(self._put_nosync, d)
+    self._write_op(self._put_nosync, d)
+    _rmtree_safe_fd(fd, path, onerror)
+    onerror(os.rmdir, path, sys.exc_info())
+    onerror(os.rmdir, path, sys.exc_info())
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 83, in _write_op
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 83, in _write_op
+    store.rmdir(path)
+    return create(store=self._store, path=path, chunk_store=self._chunk_store, **kwargs)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    os.unlink(entry.name, dir_fd=topfd)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    os.unlink(entry.name, dir_fd=topfd)
+    return f(*args, **kwargs)
+    with open(fn, mode="wb") as f:
+    return callabl(*args, **kwargs)
+    return callabl(*args, **kwargs)
+    return callabl(*args, **kwargs)
+    return callabl(*args, **kwargs)
+    return callabl(*args, **kwargs)
+    return callabl(*args, **kwargs)
+    onerror(os.rmdir, path, sys.exc_info())
+    onerror(os.rmdir, path, sys.exc_info())
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.764cd625cfb44e9284d98adc19b74468.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.b249a97576514d6fb94a42e9c2d8f4ac.partial'
+         ^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+           ^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '.zattrs.243c95e4b4bf42c6aab877b32bf6fc63.partial'
+    rmdir(store, path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    zarr_group = zarr.open_group(store, **open_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    return callabl(*args, **kwargs)
+    return f(*args, **kwargs)
+    os.rmdir(path, dir_fd=dir_fd)
+    os.rmdir(path, dir_fd=dir_fd)
+    onerror(os.rmdir, path, sys.exc_info())
+    return f(*args, **kwargs)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    onerror(os.rmdir, path, sys.exc_info())
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    rmdir(store, path)
+    onerror(os.unlink, fullname, sys.exc_info())
+    _rmtree_safe_fd(fd, path, onerror)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    return callabl(*args, **kwargs)
+    onerror(os.rmdir, path, sys.exc_info())
+    _rmtree_safe_fd(fd, path, onerror)
+    _rmtree_safe_fd(fd, path, onerror)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.309413ad1239418089f45b8616601117.partial'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.1738eba074044b3e9d8e2da2a61b2e99.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.d581cbadbfc54750bbd7310225c22d0c.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/creation.py", line 209, in create
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.6d51090236904ad59cb39657fa18cee6.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+OSError: [Errno 39] Directory not empty: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.465a4d62bc264ba2ae0fcd4d8669806f.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/sigma2/.zattrs.60ecfb357b60424ab94672651cfe3393.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/sigma2/.zattrs'
+    ~~~~~^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 39] Directory not empty: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 150, in _put_nosync
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.1928fbadf4184d53ba3ac355609f6d81.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+           ^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 683, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+    return callabl(*args, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    os.unlink(entry.name, dir_fd=topfd)
+    shutil.rmtree(dir_path)
+    os.rmdir(path, dir_fd=dir_fd)
+    os.rmdir(path, dir_fd=dir_fd)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    return callabl(*args, **kwargs)
+    return callabl(*args, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.531ddbd8800a4e7aa5d5600e2005578b.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.03fc0e4e93c04dc49d1b5e7bc3dd4bca.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 150, in _put_nosync
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/attrs.py", line 150, in _put_nosync
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+OSError: [Errno 39] Directory not empty: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+    self.store[self.key] = json_dumps(d)
+    store.rmdir(path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+FileNotFoundError: [Errno 2] No such file or directory: '.zarray'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+    store.rmdir(path)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    os.rmdir(path, dir_fd=dir_fd)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    os.rmdir(path, dir_fd=dir_fd)
+    onerror(os.unlink, fullname, sys.exc_info())
+    onerror(os.rmdir, fullname, sys.exc_info())
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    onerror(os.unlink, fullname, sys.exc_info())
+    os.unlink(entry.name, dir_fd=topfd)
+    os.rmdir(path, dir_fd=dir_fd)
+    init_array(
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.6bc8c4a62f4e480088d5912ecf972be7.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.97f8b64ec3554fb4aa1c7079ed1d5995.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.ed8f72c03fc9428fbc372d24785b8fc2.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+    ~~~~~~~~~~^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 704, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 446, in init_array
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.d581cbadbfc54750bbd7310225c22d0c.partial'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 681, in _rmtree_safe_fd
+    self.store[self.key] = json_dumps(d)
+    self.store[self.key] = json_dumps(d)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    rmdir(store, path)
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+    onerror(os.rmdir, path, sys.exc_info())
+    return callabl(*args, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+    ~~~~~~~~~~^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+    ~~~~~~~~~~^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    _require_parent_group(path, store=store, chunk_store=chunk_store, overwrite=overwrite)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    rmdir(store, path)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    shutil.rmtree(dir_path)
+    os.unlink(entry.name, dir_fd=topfd)
+    os.rmdir(entry.name, dir_fd=topfd)
+    os.unlink(entry.name, dir_fd=topfd)
+    shutil.rmtree(dir_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.40170441e6474a1a9e1b386fc808346c.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 316, in _require_parent_group
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.ed8f72c03fc9428fbc372d24785b8fc2.partial'
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.9097a6c5b602470f9ad1940e944f6139.partial'
+    ~~~~~^^^^^
+    ~~~~~^^^^^
+OSError: [Errno 39] Directory not empty: 'lat'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 212, in rmdir
+    store.rmdir(path)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+    os.rmdir(path, dir_fd=dir_fd)
+    return callabl(*args, **kwargs)
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 39] Directory not empty: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    _init_group_metadata(store, path=p, chunk_store=chunk_store)
+    store.rmdir(path)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    _rmtree_safe_fd(fd, path, onerror)
+    _rmtree_safe_fd(fd, path, onerror)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.af66e163949447599767954745b24d63.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1266, in rmdir
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    return callabl(*args, **kwargs)
+    shutil.rmtree(dir_path)
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    return callabl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 752, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    return callabl(*args, **kwargs)
+    onerror(os.unlink, fullname, sys.exc_info())
+    return callabl(*args, **kwargs)
+    return callabl(*args, **kwargs)
+    onerror(os.unlink, fullname, sys.exc_info())
+    shutil.rmtree(dir_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.ea4dfda4916140e78508313783b58499.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zattrs.d411bebb94454511a35dc75885a8f866.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zattrs'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ~~~~~^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 763, in rmtree
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+    return callabl(*args, **kwargs)
+    return callabl(*args, **kwargs)
+    _rmtree_safe_fd(fd, path, onerror)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/lat/.zattrs.7868fc45a1b2422da5716c642edbf25d.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/lat/.zattrs'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zattrs.fd11f87ae2db40adae058554aba000ad.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zattrs'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.b249a97576514d6fb94a42e9c2d8f4ac.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 703, in _rmtree_safe_fd
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    onerror(os.rmdir, path, sys.exc_info())
+    os.unlink(entry.name, dir_fd=topfd)
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.dcfb708ac0334d7288d4094c30541888.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.9c637d1d703646918ed0111a46c1f30d.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 761, in rmtree
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.727a9b8892d14b5bb30937e7fd870fe3.partial'
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.afd70ad7201146d4bcbe011b4ed60770.partial'
+    onerror(os.unlink, fullname, sys.exc_info())
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/shutil.py", line 701, in _rmtree_safe_fd
+    return callabl(*args, **kwargs)
+    os.rmdir(path, dir_fd=dir_fd)
+OSError: [Errno 39] Directory not empty: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr'
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    return callabl(*args, **kwargs)
+    os.unlink(entry.name, dir_fd=topfd)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.9097a6c5b602470f9ad1940e944f6139.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+FileNotFoundError: [Errno 2] No such file or directory: '.zgroup.ea4dfda4916140e78508313783b58499.partial'
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.61fce131fc234ea2b75d9835b7dfcb09.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/BMA/scripts/BMA_coef_T2.py", line 258, in <module>
+    ds_out.to_zarr(SAVE_PATH, mode='w', compute=True)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1748, in to_zarr
+    zstore = backends.ZarrStore.open_group(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 483, in open_group
+    zarr_group, consolidate_on_close, close_store_on_close = _get_open_params(
+                                                             ^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/zarr.py", line 1360, in _get_open_params
+    zarr_group = zarr.open_group(store, **open_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/hierarchy.py", line 1581, in open_group
+    init_group(store, overwrite=True, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 682, in init_group
+    _init_group_metadata(store=store, overwrite=overwrite, path=path, chunk_store=chunk_store)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 743, in _init_group_metadata
+    store[key] = store._metadata_class.encode_group_metadata(meta)
+    ~~~~~^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/storage.py", line 1156, in __setitem__
+    retry_call(os.replace, (temp_path, file_path), exceptions=(PermissionError,))
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/util.py", line 693, in retry_call
+    return callabl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup.f5723078bf594cfc87fb81422cb8af86.partial' -> '/glade/derecho/scratch/ksha/EPRI_data/BMA/TREFHT/bma_coef_lat_ind_0.zarr/.zgroup'
+Cgroup memsw limit exceeded: 
+Cgroup memsw limit exceeded: 

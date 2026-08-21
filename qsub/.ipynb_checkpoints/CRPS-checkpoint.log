@@ -1,0 +1,153 @@
+<xarray.Dataset> Size: 388GB
+Dimensions:    (init_time: 10, member: 48, lead_time: 3650, lat: 192, lon: 288)
+Coordinates:
+  * init_time  (init_time) int64 80B 2011 2012 2013 2014 ... 2017 2018 2019 2020
+  * lat        (lat) float64 2kB -90.0 -89.06 -88.12 -87.17 ... 88.12 89.06 90.0
+  * lead_time  (lead_time) int64 29kB 0 1 2 3 4 5 ... 3645 3646 3647 3648 3649
+  * lon        (lon) float64 2kB 0.0 1.25 2.5 3.75 ... 355.0 356.2 357.5 358.8
+  * member     (member) int64 384B 0 0 0 0 0 0 0 0 0 0 0 ... 0 0 0 0 0 0 0 0 0 0
+Data variables:
+    PRECT      (init_time, member, lead_time, lat, lon) float32 388GB dask.array<chunksize=(2, 1, 457, 24, 36), meta=np.ndarray>
+Attributes:
+    description:  EMOS-calibrated ensemble (N=1) for PRECT in mm/day. Drawn f...
+    units:        mm/day
+<xarray.Dataset> Size: 323GB
+Dimensions:    (init_time: 10, member: 20, lead_time: 3650, lat: 192, lon: 288)
+Coordinates:
+  * lat        (lat) float64 2kB -90.0 -89.06 -88.12 -87.17 ... 88.12 89.06 90.0
+  * lon        (lon) float64 2kB 0.0 1.25 2.5 3.75 ... 355.0 356.2 357.5 358.8
+  * member     (member) int64 160B 11 12 13 14 15 16 17 ... 24 25 26 27 28 29 30
+  * lead_time  (lead_time) int64 29kB 0 1 2 3 4 5 ... 3645 3646 3647 3648 3649
+  * init_time  (init_time) int64 80B 2011 2012 2013 2014 ... 2017 2018 2019 2020
+Data variables:
+    PRECT      (init_time, member, lead_time, lat, lon) float64 323GB dask.array<chunksize=(1, 20, 5, 192, 288), meta=np.ndarray>
+Attributes:
+    Conventions:       CF-1.0
+    case:              b.e21.BSMYLE.f09_g17.2010-11.011
+    host:              cheyenne5
+    initial_file:      b.e21.SMYLE_IC.f09_g17.2010-11.01.cam.i.2010-11-01-000...
+    logname:           nanr
+    model_doi_url:     https://doi.org/10.5065/D67H1H0V
+    source:            CAM
+    time_period_freq:  day_1
+    topography_file:   /glade/p/cesmdata/cseg/inputdata/atm/cam/topo/fv_0.9x1...
+Building date index mapping …
+  Matched 32,850 of 36,500 (init, lead) pairs.
+
+Loading ERA5 target into memory …
+  Raw:  10 inits × 20 members × 3650 leads × 192 lat × 288 lon
+  EMOS: 10 inits × 48 members × 3650 leads × 192 lat × 288 lon
+  Loading per-init to save memory.
+
+Computing CRPS …
+<xarray.Dataset> Size: 404GB
+Dimensions:    (init_time: 10, member: 50, lead_time: 3650, lat: 192, lon: 288)
+Coordinates:
+  * init_time  (init_time) int64 80B 2011 2012 2013 2014 ... 2017 2018 2019 2020
+  * lat        (lat) float64 2kB -90.0 -89.06 -88.12 -87.17 ... 88.12 89.06 90.0
+  * lead_time  (lead_time) int64 29kB 0 1 2 3 4 5 ... 3645 3646 3647 3648 3649
+  * lon        (lon) float64 2kB 0.0 1.25 2.5 3.75 ... 355.0 356.2 357.5 358.8
+  * member     (member) int64 400B 0 0 0 0 0 0 0 0 0 0 0 ... 0 0 0 0 0 0 0 0 0 0
+Data variables:
+    PRECT      (init_time, member, lead_time, lat, lon) float32 404GB dask.array<chunksize=(2, 1, 457, 24, 36), meta=np.ndarray>
+Attributes:
+    description:  EMOS-calibrated ensemble (N=1) for PRECT in mm/day. Generat...
+    n_members:    1
+    units:        mm/day
+<xarray.Dataset> Size: 323GB
+Dimensions:    (init_time: 10, member: 20, lead_time: 3650, lat: 192, lon: 288)
+Coordinates:
+  * lat        (lat) float64 2kB -90.0 -89.06 -88.12 -87.17 ... 88.12 89.06 90.0
+  * lon        (lon) float64 2kB 0.0 1.25 2.5 3.75 ... 355.0 356.2 357.5 358.8
+  * member     (member) int64 160B 11 12 13 14 15 16 17 ... 24 25 26 27 28 29 30
+  * lead_time  (lead_time) int64 29kB 0 1 2 3 4 5 ... 3645 3646 3647 3648 3649
+  * init_time  (init_time) int64 80B 2011 2012 2013 2014 ... 2017 2018 2019 2020
+Data variables:
+    PRECT      (init_time, member, lead_time, lat, lon) float64 323GB dask.array<chunksize=(1, 20, 5, 192, 288), meta=np.ndarray>
+Attributes:
+    Conventions:       CF-1.0
+    case:              b.e21.BSMYLE.f09_g17.2010-11.011
+    host:              cheyenne5
+    initial_file:      b.e21.SMYLE_IC.f09_g17.2010-11.01.cam.i.2010-11-01-000...
+    logname:           nanr
+    model_doi_url:     https://doi.org/10.5065/D67H1H0V
+    source:            CAM
+    time_period_freq:  day_1
+    topography_file:   /glade/p/cesmdata/cseg/inputdata/atm/cam/topo/fv_0.9x1...
+Building date index mapping …
+  Matched 32,850 of 36,500 (init, lead) pairs.
+
+Loading ERA5 target into memory …
+  Raw:  10 inits × 20 members × 3650 leads × 192 lat × 288 lon
+  EMOS: 10 inits × 50 members × 3650 leads × 192 lat × 288 lon
+  Loading per-init to save memory.
+
+Computing CRPS …
+
+============================================================
+Real-space CRPS verification (1,816,473,600 valid cells)
+============================================================
+  Raw CESM   : 1.7174 mm/day
+  EMOS       : 3.0095 mm/day
+  Improvement: -75.2%
+
+Per forecast year:
+  Year  1 (lead    0– 365): raw=1.7077  emos=2.9927  gain=-75.2%
+  Year  2 (lead  365– 730): raw=1.7126  emos=2.9981  gain=-75.1%
+  Year  3 (lead  730–1095): raw=1.7216  emos=3.0054  gain=-74.6%
+  Year  4 (lead 1095–1460): raw=1.7213  emos=3.0099  gain=-74.9%
+  Year  5 (lead 1460–1825): raw=1.7196  emos=3.0158  gain=-75.4%
+  Year  6 (lead 1825–2190): raw=1.7188  emos=3.0153  gain=-75.4%
+  Year  7 (lead 2190–2555): raw=1.7188  emos=3.0129  gain=-75.3%
+  Year  8 (lead 2555–2920): raw=1.7183  emos=3.0154  gain=-75.5%
+  Year  9 (lead 2920–3285): raw=1.7177  emos=3.0182  gain=-75.7%
+  Year 10 (lead 3285–3650): raw=1.7193  emos=3.0189  gain=-75.6%
+
+Per initialisation:
+  Init 2011: raw=1.7098  emos=3.0014  gain=-75.5%
+  Init 2012: raw=1.7141  emos=3.0041  gain=-75.3%
+  Init 2013: raw=1.7124  emos=3.0081  gain=-75.7%
+  Init 2014: raw=1.7174  emos=3.0109  gain=-75.3%
+  Init 2015: raw=1.7249  emos=3.0154  gain=-74.8%
+  Init 2016: raw=1.7178  emos=3.0130  gain=-75.4%
+  Init 2017: raw=1.7149  emos=3.0106  gain=-75.6%
+  Init 2018: raw=1.7189  emos=3.0103  gain=-75.1%
+  Init 2019: raw=1.7204  emos=3.0096  gain=-74.9%
+  Init 2020: raw=1.7300  emos=3.0131  gain=-74.2%
+
+Saving to /glade/derecho/scratch/ksha/EPRI_data/PP_verif/TP_lognorm_EMOS_2010_2019.zarr …
+Done.
+
+============================================================
+Real-space CRPS verification (1,816,473,600 valid cells)
+============================================================
+  Raw CESM   : 1.7174 mm/day
+  EMOS       : 1.6446 mm/day
+  Improvement: 4.2%
+
+Per forecast year:
+  Year  1 (lead    0– 365): raw=1.7077  emos=1.6351  gain=+4.3%
+  Year  2 (lead  365– 730): raw=1.7126  emos=1.6388  gain=+4.3%
+  Year  3 (lead  730–1095): raw=1.7216  emos=1.6435  gain=+4.5%
+  Year  4 (lead 1095–1460): raw=1.7213  emos=1.6461  gain=+4.4%
+  Year  5 (lead 1460–1825): raw=1.7196  emos=1.6502  gain=+4.0%
+  Year  6 (lead 1825–2190): raw=1.7188  emos=1.6481  gain=+4.1%
+  Year  7 (lead 2190–2555): raw=1.7188  emos=1.6456  gain=+4.3%
+  Year  8 (lead 2555–2920): raw=1.7183  emos=1.6467  gain=+4.2%
+  Year  9 (lead 2920–3285): raw=1.7177  emos=1.6473  gain=+4.1%
+  Year 10 (lead 3285–3650): raw=1.7193  emos=1.6470  gain=+4.2%
+
+Per initialisation:
+  Init 2011: raw=1.7098  emos=1.6358  gain=+4.3%
+  Init 2012: raw=1.7141  emos=1.6384  gain=+4.4%
+  Init 2013: raw=1.7124  emos=1.6422  gain=+4.1%
+  Init 2014: raw=1.7174  emos=1.6454  gain=+4.2%
+  Init 2015: raw=1.7249  emos=1.6500  gain=+4.3%
+  Init 2016: raw=1.7178  emos=1.6474  gain=+4.1%
+  Init 2017: raw=1.7149  emos=1.6459  gain=+4.0%
+  Init 2018: raw=1.7189  emos=1.6468  gain=+4.2%
+  Init 2019: raw=1.7204  emos=1.6480  gain=+4.2%
+  Init 2020: raw=1.7300  emos=1.6500  gain=+4.6%
+
+Saving to /glade/derecho/scratch/ksha/EPRI_data/PP_verif/TP_QM_EMOS_2010_2019.zarr …
+Done.

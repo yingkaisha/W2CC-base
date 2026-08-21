@@ -1,0 +1,4 @@
+  File "/glade/u/home/ksha/W2CC-base/verification/scripts/STN_01_ERA5_metrics.py", line 42
+    stn = station_names[ind]:
+                            ^
+SyntaxError: invalid syntax

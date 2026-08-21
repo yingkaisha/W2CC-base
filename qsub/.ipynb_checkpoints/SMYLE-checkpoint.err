@@ -1,0 +1,41 @@
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/verification/scripts/GLOBE_01_CESM_metrics.py", line 154, in <module>
+    ds_all.to_zarr(save_dir + "SMYLE_Annual_Metrics.zarr", mode="w")
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/core/dataset.py", line 2562, in to_zarr
+    return to_zarr(  # type: ignore[call-overload,misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/api.py", line 1785, in to_zarr
+    writes = writer.sync(
+             ^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/backends/common.py", line 268, in sync
+    delayed_store = chunkmanager.store(
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/xarray/namedarray/daskmanager.py", line 249, in store
+    return store(
+           ^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/dask/array/core.py", line 1227, in store
+    dask.compute(arrays, **kwargs)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/dask/base.py", line 681, in compute
+    results = schedule(expr, keys, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/core.py", line 1450, in __setitem__
+    self.set_orthogonal_selection(pure_selection, value, fields=fields)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/core.py", line 1639, in set_orthogonal_selection
+    self._set_selection(indexer, value, fields=fields)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/core.py", line 1991, in _set_selection
+    self._chunk_setitem(chunk_coords, chunk_selection, chunk_value, fields=fields)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/core.py", line 2259, in _chunk_setitem
+    self._chunk_setitem_nosync(chunk_coords, chunk_selection, value, fields=fields)
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/core.py", line 2269, in _chunk_setitem_nosync
+    self.chunk_store[ckey] = self._encode_chunk(cdata)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/zarr/core.py", line 2393, in _encode_chunk
+    cdata = self._compressor.encode(chunk)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "numcodecs/blosc.pyx", line 559, in numcodecs.blosc.Blosc.encode
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/numcodecs/compat.py", line 155, in ensure_contiguous_ndarray
+    ensure_contiguous_ndarray_like(
+  File "/glade/work/ksha/miniconda3/envs/credit/lib/python3.11/site-packages/numcodecs/compat.py", line 121, in ensure_contiguous_ndarray_like
+    raise ValueError(msg)
+ValueError: Codec does not support buffers of > 2147483647 bytes
+Cgroup memsw limit exceeded: 

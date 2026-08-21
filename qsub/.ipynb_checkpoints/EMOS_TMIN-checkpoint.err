@@ -1,0 +1,960 @@
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+                           ^^^
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+                           ^^^
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+NameError: name 'VAR' is not defined
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+Traceback (most recent call last):
+Traceback (most recent call last):
+NameError: name 'VAR' is not defined
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+                           ^^^
+                           ^^^
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+                           ^^^
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+Traceback (most recent call last):
+                           ^^^
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+NameError: name 'VAR' is not defined
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
+Traceback (most recent call last):
+  File "/glade/u/home/ksha/W2CC-base/EMOS/scripts/EMOS_coef_TMIN.py", line 104, in <module>
+    ens_mean_da = ds_input[VAR].mean(dim='member')            # (init_time, lead_time, lat, lon)
+                           ^^^
+NameError: name 'VAR' is not defined
